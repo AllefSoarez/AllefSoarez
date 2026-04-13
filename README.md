@@ -9,8 +9,11 @@
 > Objetivo: Desenvolver sistemas escaláveis e eficientes
 
 💻 Desenvolvedor em formação com experiência em desenvolvimento web e sistemas.
+
 🚀 Atuação com tecnologias modernas no Backend e Frontend.
+
 🧠 Interesse em Inteligência Artificial e Machine Learning.
+
 ⚡ Perfil proativo, organizado e focado em evolução contínua.
 
 ## 🚀 Minhas Habilidades Técnicas
