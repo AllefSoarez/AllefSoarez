@@ -23,6 +23,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 | 🌐 Frontend     | ![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=00F7FF) ![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=00F7FF) ![Angular](https://img.shields.io/badge/Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=00F7FF) ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00F7FF) |
 | ⚙️ Backend      | ![Spring Boot](https://img.shields.io/badge/SpringBoot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=00F7FF) |
 | 🗄️ Banco de Dados | ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00F7FF) ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=00F7FF) |
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00F7FF)
 | 🔧 Ferramentas  | ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF) ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF) ![Scrum](https://img.shields.io/badge/Scrum-0A0A0A?style=for-the-badge&logo=scrumalliance&logoColor=00F7FF) |
 
 📫 Contato
