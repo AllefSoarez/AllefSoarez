@@ -16,7 +16,7 @@
 
 ⚡ Perfil proativo, organizado e focado em evolução contínua.
 
-## 🚀 Minhas Habilidades Técnicas
+## 🚀 Habilidades Técnicas
 
 Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
 
